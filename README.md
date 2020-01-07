@@ -15,3 +15,5 @@ Since we count on the SAP standard authentication method to Google API (SAP oaut
 S_OA2C_USE
 PROFILE       = Z_GOOGLE_SHEETS
 ACTVT           = 16
+
+Setup the Google API Endpoint (see chapter 2.2 in [Export of ALV Grid Data to Google Sheets](https://www.sap.com/documents/2018/07/56e0dd6d-0f7d-0010-87a3-c30de2ffd8ff.html) )
