@@ -1,7 +1,7 @@
 # abap2gsheet
 ABAP framework that abstract the Google Sheets API
 
-For more information on this please refer to SCN BLOG: 
+For more information on this please refer to the [a SCN BLOG](https://blogs.sap.com/2020/01/13/google-sheet-api-integration-with-abap-abap2gsheet-join-to-the-github-project/)
 
 # Pre-requirements
 
